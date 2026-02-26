@@ -1,2 +1,2 @@
-# AvaLit360
-A 360°-Renderable, Relightable and Animatable 3D Gaussian Head Avatar from a Single Image
+# AvaLit
+Relightable and Animatable Full-Head 3D Gaussian Avatars from a Monocular Video
