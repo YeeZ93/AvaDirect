@@ -1,2 +1,2 @@
 # AvaLit
-Relightable and Animatable Full-Head 3D Gaussian Avatars from a Monocular Video
+High-Dimensional BRDF Gaussians for Animatable Full-Head Avatars from Monocular Video
