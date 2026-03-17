@@ -1,2 +1,2 @@
 # AvaLit
-High-Dimensional BRDF Gaussians for Animatable Full-Head Avatars from Monocular Video
+Hyper-BRDF Gaussians for Animatable Full-Head Avatars from Monocular Video
