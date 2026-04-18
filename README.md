@@ -1,2 +1,2 @@
 # AvaLit
-Hyper-BRDF Gaussians for Animatable and Relightable Full-Head Avatars from Monocular Video in the Wild
+Material-aware HyperGaussians for Animatable and Relightable Full-Head 3D Avatars from Monocular Video
