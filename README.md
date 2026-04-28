@@ -1,2 +1,2 @@
 # AvaLit
-Material-Aware HyperGaussians for Animatable and Relightable Full-Head 3D Avatars from Monocular Video
+Face-Hair Disentangled BSDF Gaussians for Relightable and Animatable 3D Head Avatars from Monocular Video
