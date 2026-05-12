@@ -1,2 +1,2 @@
 # AvaLit
-BSDF Gaussians for Hair-Disentangled Photorealistic 3D Head Avatars
+Strand-Aligned BSDF Gaussians for Animatable and Relightable 3D Head Avatars
