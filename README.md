@@ -1,2 +1,2 @@
 # AvaStrand
-Strand-Aligned BSDF Gaussian Head Avatars from Monocular Video
+Strand-Aligned BSDF Gaussian Head Avatars from a Single Image
