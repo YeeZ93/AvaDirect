@@ -1,2 +1,2 @@
-# AvaLit
-Strand-Aligned BSDF Gaussians for Animatable and Relightable 3D Head Avatars from Monocular Video
+# AvaStrand
+Strand-Aligned BSDF Gaussian Head Avatars
