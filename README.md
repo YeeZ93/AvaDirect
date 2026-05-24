@@ -1,2 +1,2 @@
 # AvaStrand
-Strand-Guided BRDF Gaussian Head Avatars from Monocular Video
+Relightable and Animatable 3D Gaussian Head Avatars with Strand-based Dynamic Hair
