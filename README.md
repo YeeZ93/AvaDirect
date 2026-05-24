@@ -1,2 +1,2 @@
 # AvaStrand
-Relightable and Animatable 3D Gaussian Head Avatars with Strand-based Dynamic Hair
+Strand-Aligned BSDF Gaussian Head Avatars from Monocular Video
