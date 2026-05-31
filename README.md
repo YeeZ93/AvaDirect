@@ -1,2 +1,2 @@
 # StrandGS
-Relightable Gaussian Hair Strands from Monocular Video
+Relightable Gaussian Hair Strands from a Selfie Video
