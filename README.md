@@ -1,2 +1,2 @@
 # StrandGS
-Relightable Gaussian Hair Strands from a Selfie Video
+Relightable Strand-Aligned Gaussian Hairs from a Selfie Video
