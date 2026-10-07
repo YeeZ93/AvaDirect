@@ -1,2 +1,3 @@
 # AvaDirect
-Animatable 3D Head Avatars with Direction-Aware Hair Gaussians From a Single Selfie Video
+Direction-Aware Hair Gaussians for Animatable 3D Head Avatars from Monocular Video
+
